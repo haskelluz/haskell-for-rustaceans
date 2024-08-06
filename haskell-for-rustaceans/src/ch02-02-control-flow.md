@@ -2,7 +2,7 @@
 
 ### Contents
 
-- [If Conditions](#if-conditions)
+- [If Expressions](#if-expressions)
 - [Pattern Matching](#pattern-matching)
 - [Loops](#loops)
 
