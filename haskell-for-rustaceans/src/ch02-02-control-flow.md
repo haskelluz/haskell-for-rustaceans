@@ -2,9 +2,7 @@
 
 ### Contents
 
-- [If Expressions](#if-expressions)
-- [Pattern Matching](#pattern-matching)
-- [Loops](#loops)
+<!-- toc -->
 
 ## If Expressions
 

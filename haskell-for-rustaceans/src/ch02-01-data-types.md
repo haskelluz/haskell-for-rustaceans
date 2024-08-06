@@ -2,6 +2,6 @@
 
 ### Contents
 
-- [Algebraic Data Types](#algebraic-data-types)
+<!-- toc -->
 
 ## Algebraic Data Types

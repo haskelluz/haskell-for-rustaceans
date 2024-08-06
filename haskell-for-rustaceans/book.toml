@@ -8,3 +8,7 @@ src = "src"
 
 [output.html]
 git-repository-url = "https://github.com/haskelluz/haskell-for-rustaceans"
+
+[preprocessor.toc]
+command = "mdbook-toc"
+renderer = ["html"]
