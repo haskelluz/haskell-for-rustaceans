@@ -1,7 +1,7 @@
 # Summary
 
 [Haskell for Rustaceans](./title.md)
-[Foreword](./foreword.md)
+[Preface](./preface.md)
 [Introduction](./introduction.md)
 
 - [Getting Started](./ch01-00-getting-started.md)
