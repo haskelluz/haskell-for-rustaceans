@@ -23,11 +23,11 @@ If you have seen some projects or browsed Haskell related content on the interne
 stumbled upon another Haskell package manger: `stack`. You might be wondering why did we chose `cabal-install` over
 `stack`. The answer is simple: `cabal-install` is arguably simpler. It doesn't try to manage GHC or any other tooling
 for you like `stack` does. There can be held a whole debate on to which one to choose. So we won't dwell on the topic.
-The main thing you **need** no know is: both of them use the same library under the hood anyways. `cabal` is a library
-that is used by both of the aforementioned package managers. We recommend using `cabal`.
+The main thing you **need** no know is: both of them use the same library under the hood anyways. `Cabal` is a library
+that is used by both of the aforementioned package managers. We recommend using `cabal-install`.
 
 Also, note that `cabal-install` provides the `cabal` executable. Hence, `cabal-install` is sometimes referred to as
-`cabal` for the sake of simplicity. We'll consistently use `cabal-install` to refer to the package and `cabal` for the
+`cabal` for the sake of simplicity. We'll consistently use `cabal-install` to refer to the package and `Cabal` for the
 library to avoid ambiguity. But be aware that in other sources or discussions, you might encounter `cabal` being used to
 mean either the library or the executable.
 
